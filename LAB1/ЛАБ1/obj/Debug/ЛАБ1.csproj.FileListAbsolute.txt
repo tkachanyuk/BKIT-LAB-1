@@ -1,0 +1,6 @@
+D:\Учеба\БКИТ\Лабы\ЛАБ1\ЛАБ1\bin\Debug\ЛАБ1.exe.config
+D:\Учеба\БКИТ\Лабы\ЛАБ1\ЛАБ1\bin\Debug\ЛАБ1.exe
+D:\Учеба\БКИТ\Лабы\ЛАБ1\ЛАБ1\bin\Debug\ЛАБ1.pdb
+D:\Учеба\БКИТ\Лабы\ЛАБ1\ЛАБ1\obj\Debug\ЛАБ1.csprojResolveAssemblyReference.cache
+D:\Учеба\БКИТ\Лабы\ЛАБ1\ЛАБ1\obj\Debug\ЛАБ1.exe
+D:\Учеба\БКИТ\Лабы\ЛАБ1\ЛАБ1\obj\Debug\ЛАБ1.pdb
